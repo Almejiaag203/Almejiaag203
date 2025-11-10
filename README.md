@@ -23,7 +23,7 @@
 
 <br><br>
 
-- :school: Soy estudiante avanzado de Ingeniería de Sistemas en la Universidad César Vallejo.
+- :school: Soy Ingeniero de sistemas
 - :technologist: Amo usar el software como solución para cada problema.
 - :computer: Me especializo en desarrollo web con HTML5, CSS, PHP y MySQL.
 - :student: Estoy aprendiendo continuamente sobre desarrollo web y servicio técnico.
