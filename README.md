@@ -1,14 +1,19 @@
 <h1 align="center">¡Hola! Soy Aldair Mejia Giron <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Ingeniero+de+Sistemas+@Independiente;Desarrollo+Web;Servicio+Técnico;Siempre+aprendiendo+nuevas+tecnologías"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Ingeniero+de+Sistemas+%40Independiente;Desarrollo+Web;Servicio+T%C3%A9cnico;Siempre+aprendiendo+nuevas+tecnolog%C3%ADas" alt="Typing SVG">
+  </a>
 </p>
 
 <br>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=mejaalair220&label=Vistas+de+perfil&color=0047AB&style=plastic?" alt="mejaalair220" height=25px width=160px/> 
+<p align="center">
+  <!-- Contador de vistas del perfil -->
+  <img src="https://komarev.com/ghpvc/?username=Almejiaag203&label=Vistas+de+perfil&color=0047AB&style=plastic" alt="Vistas de perfil" height="25" />
+  
+  <!-- Badge: Top contribuidor en Perú (opcional, solo si estás en el ranking) -->
   <a href="https://commits.top/peru.html" target="_blank">
-    <img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="mejaalair220" target="_blank" height=25px width=250px/> 
+    <img src="https://badgen.net/badge/Top%20en%20Per%C3%BA/%F0%9F%87%B5%F0%9F%87%AA/blue?icon=github" height="25" />
   </a>
 </p>
 
