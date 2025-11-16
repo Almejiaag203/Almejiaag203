@@ -48,11 +48,11 @@
 <!-- Separador bonito -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## Proyectos
+<!-- ## Proyectos
 
 <a href="https://github.com/Almejiaag203/Website-Blocker">
 
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+
 
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Almejiaag203&theme=tokyonight" />
 
@@ -60,11 +60,11 @@
 
 <a href="https://github.com/Almejiaag203/Alien-Shooter">
 
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Almejiaag203&theme=tokyonight" />
 
-</a> 
+</a> -->
 
 <!-- Separador bonito -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
